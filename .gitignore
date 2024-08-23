@@ -1,0 +1,14 @@
+# vim swap files
+*.swp
+*.swo
+
+# latex output files
+*.aux
+*.log
+*.toc
+
+# vscode
+.vscode
+
+# nohup
+nohup.out
